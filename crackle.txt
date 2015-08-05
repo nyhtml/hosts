@@ -1,3 +1,9 @@
+# Blocklist for Crackle - Movies & TV 4.4.4.5
+# Add the following hosts file URL to AdAway 2.9.2
+# http://www.nyhtml.com/hosts/crackle.txt
+# Last Updated on August 1, 2015 at 12:00 AM EST
+# Submit compliments and criticism on http://www.nyhtml.com/contact/
+
 127.0.0.1 localhost
 ::1 localhost
 
