@@ -8,3 +8,25 @@
 ::1 localhost
 
 127.0.0.1 semaltmedia.com
+127.0.0.1 7makemoneyonline.com
+127.0.0.1 make-money-online.7makemoneyonline.com
+127.0.0.1 anonymous-redirect.com
+127.0.0.1 kambasoft.com
+127.0.0.1 srecorder.com
+127.0.0.1 semalt.com
+127.0.0.1 savetubevideo.com
+127.0.0.1 youtube-downloader.savetubevideo.com
+127.0.0.1 20.kambasoft.com
+127.0.0.1 56.kambasoft.com
+127.0.0.1 musicas.kambasoft.com
+127.0.0.1 semalt.semalt.com
+127.0.0.1 serw.clicksor.com
+127.0.0.1 musicas.baixar-musicas-gratis.com
+127.0.0.1 musica.descargar-musica-gratis.net
+127.0.0.1 com-afu.net
+127.0.0.1 ranksonic.info
+127.0.0.1 go2cloud.org
+127.0.0.1 yadro.ru
+127.0.0.1 counter.yadro.ru
+127.0.0.1 100dollars-seo.com
+127.0.0.1 video--production.com
