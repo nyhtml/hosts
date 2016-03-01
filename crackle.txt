@@ -1,11 +1,38 @@
-# Blocklist for Crackle - Movies & TV 4.4.4.5
-# Add the following hosts file URL to AdAway 2.9.2
+# Copyright (c) 1990-2015 Sipylus LLC.
+#
+# Blocklist for Crackle - Movies & TV 4.4.4.9
+# Add the following hosts file URL to AdAway 3.0
 # http://www.nyhtml.com/hosts/crackle.txt
-# Last Updated on August 1, 2015 at 12:00 AM EST
+# Last Updated on March 1, 2016 at 12:00 AM EST
 # Submit compliments and criticism on http://www.nyhtml.com/contact/
 
 127.0.0.1 localhost
 ::1 localhost
 
 127.0.0.1 fwmrm.net
+127.0.0.1 v.fwmrm.net
+127.0.0.1 1c6e2.v.fwmrm.net
+127.0.0.1 1462b.v.fwmrm.net
+127.0.0.1 2975c.v.fwmrm.net
+127.0.0.1 165a7.v.fwmrm.net
+127.0.0.1 2517.v.fwmrm.net
+127.0.0.1 2517d.v.fwmrm.net
+127.0.0.1 2822.v.fwmrm.net
+127.0.0.1 2945.v.fwmrm.net
+127.0.0.1 29733.v.fwmrm.net
+127.0.0.1 2912a.v.fwmrm.net
+127.0.0.1 2915d.v.fwmrm.net
+127.0.0.1 2915dc.v.fwmrm.net
+127.0.0.1 2ab7f.v.fwmrm.net
+127.0.0.1 2a86.v.fwmrm.net
+127.0.0.1 2df7d.v.fwmrm.net
+127.0.0.1 2df7e.v.fwmrm.net
+127.0.0.1 5bde1.v.fwmrm.net
+127.0.0.1 5be16.v.fwmrm.net
+127.0.0.1 9cf9.v.fwmrm.net
+127.0.0.1 adm.fwmrm.net
+127.0.0.1 bea4.v.fwmrm.net
+127.0.0.1 bd0dc.v.fwmrm.net
+127.0.0.1 m2.fwmrm.net
+127.0.0.1 m.v.fwmrm.net
 127.0.0.1 www.fwmrm.net
