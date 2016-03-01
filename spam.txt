@@ -1,8 +1,10 @@
 # Spam Blocklist for Rooted Android Devices
 # Add the following hosts file URL to AdAway 2.9.2 
 # http://www.nyhtml.com/hosts/spam.txt
-# Last Updated on July 1, 2015 at 12:00 AM EST
+# Last Updated on March 1, 2016 at 12:00 AM EST
 # Submit compliments and criticism on http://www.nyhtml.com/contact/
+! Expires: 1 days
+! Title: Blocker for SEO Spammers
 
 127.0.0.1 localhost
 ::1 localhost
@@ -29,4 +31,3 @@
 127.0.0.1 yadro.ru
 127.0.0.1 counter.yadro.ru
 127.0.0.1 100dollars-seo.com
-127.0.0.1 video--production.com
