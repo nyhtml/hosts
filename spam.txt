@@ -1,10 +1,9 @@
-# Spam Blocklist for Rooted Android Devices
-# Add the following hosts file URL to AdAway 2.9.2 
-# http://www.nyhtml.com/hosts/spam.txt
-# Last Updated on March 1, 2016 at 12:00 AM EST
-# Submit compliments and criticism on http://www.nyhtml.com/contact/
+! Title: Spam Blocklist for Rooted Android Devices
+# Add the following hosts file URL to AdAway 3.2 (60)
+# https://www.stephanpringle.com/hosts/spam.txt
+# Last Updated on April 23, 2017 at 12:00 AM EST
 ! Expires: 1 days
-! Title: Blocker for SEO Spammers
+# Copyright (c) 1990-2017 Sipylus, LLC.
 
 127.0.0.1 localhost
 ::1 localhost
