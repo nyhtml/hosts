@@ -35,3 +35,7 @@
 127.0.0.1 bd0dc.v.fwmrm.net
 127.0.0.1 m.v.fwmrm.net
 127.0.0.1 www.fwmrm.net
+127.0.0.1 crackle.demdex.com
+127.0.0.1 crackle.demdex.net
+127.0.0.1 www.demdex.com
+127.0.0.1 www.demdex.net
