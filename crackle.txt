@@ -1,7 +1,7 @@
-! Title: Blocklist for Crackle - Free TV & Movies 5,2.1
+! Title: Blocklist for Crackle - Free TV & Movies 5.2.1
 # Add the following hosts file URL to AdAway 3.3 (61)
 # https://www.stephanpringle.com/hosts/crackle.txt
-# Last Updated on September 1, 2018 at 12:00 AM EST
+# Last Updated on September 8, 2018 at 12:00 AM EST
 ! Expires: 1 days
 # Copyright (c) 1990-2017 Sipylus, LLC.
 
