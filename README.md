@@ -1,4 +1,4 @@
-AdAway 3.3 (61) is an advertisement blocker that uses hosts files.<br>
+AdAway 4.2.3 (40203) is an advertisement blocker that uses hosts files.<br>
 <br>
 The hosts files contained in this repository helps rooted<br>
 Android devices with version 4.1 or later to redirect request
