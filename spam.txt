@@ -1,7 +1,7 @@
-! Title: Spam Blocklist for Rooted Android Devices
-# Add the following hosts file URL to AdAway 3.3 (61)
+! Title: Spam Blocklist for Your Devices
+# Add the following hosts file URL to AdAway and DNS666
 # https://www.stephanpringle.com/hosts/spam.txt
-# Last Updated on September 8, 2018 at 12:00 AM EST
+# Last Updated on February 02, 2020 at 02:20 AM EST
 ! Expires: 1 days
 # Copyright (c) 1990-2017 Sipylus, LLC.
 
