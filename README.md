@@ -1,7 +1,10 @@
+# Host
+Custom blocklist for Adaway and DNS66 for Android
+
 ## Table of Contents
 
 * [AdAway version 4.3.2 (40302)](#adaway)
-* [DNS666 version v0.6.1 (22)](#dns666)
+* [DNS66 version v0.6.1 (22)](#dns666)
 * [Disclaimer](#disclaimer)
 
 ## Adaway
@@ -11,8 +14,8 @@
 -by the default or secondary Android browsers along with<br>
 -Android apps to 127.0.0.1 so advertisements do not display.<br>
 <br>
-## DNS666
-<b>DNS666 version v0.6.1 (22) is an advertisement blocker that uses hosts files.</b><br>
+## DNS66
+<b>DNS66 version v0.6.1 (22) is an advertisement blocker that uses hosts files.</b><br>
 -The hosts files contained in this repository helps non-rooted<br>
 -Android devices with version 5.0 or later to redirect request<br>
 -by the default or secondary Android browsers along with<br>
