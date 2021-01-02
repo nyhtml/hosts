@@ -1,7 +1,7 @@
 # Host
 Custom blocklist for Adaway and DNS66 for Android
 
-## Table of Contents	## Table of Contents
+## Table of Contents
 
 * [AdAway version 4.3.2 (40302)](#adaway)
 * [DNS66 version v0.6.1 (22)](#dns666)
