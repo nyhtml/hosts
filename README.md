@@ -1,4 +1,4 @@
-# Host
+# Hosts
 Custom blocklist for Adaway and DNS66 for Android
 
 ## Table of Contents
