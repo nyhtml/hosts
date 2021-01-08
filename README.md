@@ -1,5 +1,5 @@
 # Hosts
-Custom blocklist for Adaway and DNS66 for Android
+The computer file hosts is an plain operating system text file that maps hostnames to IP addresses.
 
 ## Table of Contents
 
