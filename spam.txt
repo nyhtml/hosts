@@ -1,9 +1,9 @@
 ! Title: Spam Blocklist for Your Devices
-# Add the following hosts file URL to AdAway and DNS666
+# Add the following hosts file URL to your blocking app
 # https://www.stephanpringle.com/hosts/spam.txt
-# Last Updated on February 02, 2020 at 02:20 AM EST
+# Last Updated on Saturday, March 13, 2021
 ! Expires: 1 days
-# Copyright (c) 1990-2017 Sipylus, LLC.
+# Copyright (c) 1990-2021 Sipylus, LLC.
 
 127.0.0.1 localhost
 ::1 localhost
