@@ -1,7 +1,7 @@
-! Title: Blocklist for Crackle - Free TV & Movies 5,2.1
+! Title: Blocklist for Crackle - Free TV & Movies
 # Add the following hosts file URL to your blocking app
 # https://www.stephanpringle.com/hosts/crackle.txt
-# Last Updated on Saturday, March 13, 2021
+# Last Updated on Saturday, May 29, 2021
 ! Expires: 1 days
 # Copyright (c) 1990-2021 Sipylus, LLC.
 
