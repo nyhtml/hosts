@@ -4,7 +4,7 @@ The computer file hosts is a plain operating system text file that maps hostname
 ## Table of Contents
 
 * [AdAway version 5.4.0 (50400)](#adaway)
-* [DNS66 version 0.6.7 (28)](#dns66)
+* [DNS66 version 0.6.8 (29)](#dns66)
 * [Disclaimer](#disclaimer)
 
 ## Adaway
