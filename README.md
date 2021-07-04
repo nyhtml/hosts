@@ -15,7 +15,7 @@ The computer file hosts is a plain operating system text file that maps hostname
 -Android apps to 127.0.0.1 so advertisements do not display.<br>
 <br>
 ## DNS66
-<b>DNS66 version v0.6.1 (22) is an advertisement blocker that uses hosts files.</b><br>
+<b>DNS66 version v0.6.8 (29) is an advertisement blocker that uses hosts files.</b><br>
 -The hosts files contained in this repository helps non-rooted<br>
 -Android devices with version 5.0 or later to redirect request<br>
 -by the default or secondary Android browsers along with<br>
