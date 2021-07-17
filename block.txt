@@ -1,0 +1,9 @@
+! Title: Global Blocklist for Android Devices
+# Add the following hosts file URL to your blocking app
+# https://www.stephanpringle.com/hosts/block.txt
+# Last Updated on July 16, 2017 at 12:00 AM EST
+! Expires: 1 days
+# Copyright (c) 1990-2021 Sipylus, LLC.
+
+127.0.0.1 localhost
+::1 localhost
