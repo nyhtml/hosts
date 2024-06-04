@@ -1,5 +1,5 @@
 # Hosts
-The computer file hosts is a plain operating system text file that maps hostnames to IP addresses.
+The computer file [host](https://github.com/nyhtml/hosts/tree/master/hosts) is a plain operating system text file that maps hostnames to IP addresses.
 
 ## Table of Contents
 
@@ -8,15 +8,15 @@ The computer file hosts is a plain operating system text file that maps hostname
 * [Disclaimer](#disclaimer)
 
 ## Adaway
-<b>AdAway version 4.3.2 (40302) is an advertisement blocker that uses hosts files.</b><br>
--The hosts files contained in this repository helps rooted<br>
+<b>AdAway version 4.3.2 (40302) is an advertisement blocker that uses host files.</b><br>
+-The hosts files contained in this repository help rooted<br>
 -Android devices with version 4.1 or later to redirect request<br>
 -by the default or secondary Android browsers along with<br>
--Android apps to 127.0.0.1 so advertisements do not display.<br>
+-Android apps are set to 127.0.0.1, so advertisements do not display.<br>
 <br>
 ## DNS66
-<b>DNS66 version v0.6.8 (29) is an advertisement blocker that uses hosts files.</b><br>
--The hosts files contained in this repository helps non-rooted<br>
+<b>DNS66 version v0.6.8 (29) is an advertisement blocker that uses host files.</b><br>
+-The hosts files contained in this repository help non-rooted<br>
 -Android devices with version 5.0 or later to redirect request<br>
 -by the default or secondary Android browsers along with<br>
 -Android apps to 127.0.0.1 so advertisements do not display.<br>
