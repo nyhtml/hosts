@@ -1,13 +1,14 @@
-! Title: Spam Blocklist for Your Android Devices
-# Add the following host file URL to your blocking app
+! Title: Spam Blocklist for Mobile Devices
+# Add the following hosts file URL to your App
 # https://www.stephanpringle.com/hosts/spam.txt
-# Last Updated on July 16, 2017 at 12:00 AM EST
+# Last Updated on July 18, 2021 at 02:24 PM EST
 ! Expires: 1 days
-# Copyright (c) 1990-2021 Sipylus, LLC.
+# Copyright (c) 1990-2017 Sipylus, LLC.
 
 127.0.0.1 localhost
 ::1 localhost
 
+127.0.0.1 semalt.media
 127.0.0.1 semaltmedia.com
 127.0.0.1 7makemoneyonline.com
 127.0.0.1 make-money-online.7makemoneyonline.com
@@ -30,3 +31,4 @@
 127.0.0.1 yadro.ru
 127.0.0.1 counter.yadro.ru
 127.0.0.1 100dollars-seo.com
+127.0.0.1 ultrasurfing.com

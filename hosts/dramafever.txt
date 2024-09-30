@@ -1,9 +1,10 @@
-! Title: Blocklist for Dramafever
-# Add the following hosts file URL to your blocking app
-# https://www.stephanpringle.com/hosts/dramafever.txt
-# Last Updated on Saturday, May 29, 2021
-! Expires: 1 days
-# Copyright (c) 1990-2021 Sipylus, LLC.
+# Copyright (c) 1990-2015 Sipylus LLC.
+#
+# Blocklist for Dramafever 01.01.35
+# Add the following hosts file URL to AdAway 3.0.1 (55)
+# http://www.nyhtml.com/hosts/dramafever.txt
+# Last Updated on November 27, 2016 at 12:00 AM EST
+# Submit compliments and criticism on http://www.nyhtml.com/contact/
 
 127.0.0.1 localhost
 ::1 localhost
@@ -12,10 +13,13 @@
 127.0.0.1 cdn.vdopia.com
 127.0.0.1 serve.vdopia.com
 127.0.0.1 trk.vdopia.com
+
 # Go2Cloud
 127.0.0.1 dramafever.go2cloud.org
+
 # DoubleClick
 127.0.0.1 ad.doubleclick.net
+
 # PointRoll
 127.0.0.1 pointroll.com
 127.0.0.1 ads.pointroll.com

@@ -8,6 +8,7 @@
 127.0.0.1 localhost
 ::1 localhost
 
+#Fwmrm
 127.0.0.1 fwmrm.net
 127.0.0.1 m2.fwmrm.net
 127.0.0.1 v.fwmrm.net
@@ -35,6 +36,8 @@
 127.0.0.1 bd0dc.v.fwmrm.net
 127.0.0.1 m.v.fwmrm.net
 127.0.0.1 www.fwmrm.net
+
+# Demdex
 127.0.0.1 crackle.demdex.com
 127.0.0.1 crackle.demdex.net
 127.0.0.1 www.demdex.com
