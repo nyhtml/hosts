@@ -1,13 +1,11 @@
-! Title: Spam Blocklist for Rooted Android Devices
+! Title: Blocklist
 # Add the following hosts file URL to AdAway 3.3 (61)
 # https://www.stephanpringle.com/hosts/block.txt
-# Last Updated on July 16, 2017 at 12:00 AM EST
 ! Expires: 1 days
-# Copyright (c) 1990-2021 Sipylus, LLC.
+# Copyright (c) 1990-2024 Sipylus, LLC.
 
 127.0.0.1 localhost
 ::1 localhost
-
 127.0.0.1 prerollads.ign.com
 127.0.0.1 ad.doubleclick.net.18295.9086.302br.net
 127.0.0.1 db6.net-filter.com
