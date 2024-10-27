@@ -1,9 +1,8 @@
-! Title: Spam Blocklist for Mobile Devices
-# Add the following hosts file URL to your App
+! Title: Blocklist for Spam Domains
+# Add the following host file URL to your App
 # https://www.stephanpringle.com/hosts/spam.txt
-# Last Updated on July 18, 2021 at 02:24 PM EST
 ! Expires: 1 days
-# Copyright (c) 1990-2017 Sipylus, LLC.
+# Copyright (c) 1990-2024 Sipylus, LLC.
 
 127.0.0.1 localhost
 ::1 localhost
