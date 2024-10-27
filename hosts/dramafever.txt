@@ -1,4 +1,4 @@
-# Blocklist for Dramafever
+! Blocklist for Dramafever
 # Add the following host file URL to AdAway 3.0.1 (55)
 # http://www.stephanpringle.com/hosts/dramafever.txt
 ! Expires: 1 days
