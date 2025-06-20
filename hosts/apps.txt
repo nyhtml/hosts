@@ -1,0 +1,11 @@
+! Title: Block List for Apps
+# Add the following hosts file URL to your blocking app.
+# https://www.stephanpringle.com/hosts/apps.txt
+! Expires: 1 days
+# Copyright (c) 1990-2025 Sipylus, LLC.
+
+0.0.0.0 localhost
+::1 localhost
+
+#Outlook
+0.0.0.0 outlookads.live.com
