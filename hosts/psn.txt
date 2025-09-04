@@ -1,4 +1,5 @@
 ! Title: Blocklist for The PlayStation Network
+# Add the following hosts file URL to your blocking app.
 ! Source: https://www.stephanpringle.com/hosts/psn.txt
 ! Expires: 1 day(s)
 ! Copyright (c) 1990-2025 Sipylus, LLC.

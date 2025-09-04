@@ -1,43 +1,44 @@
 ! Title: Blocklist for Crackle - Free TV & Movies
-# Add the following host file URL to your blocking app
+# Add the following hosts file URL to your blocking app.
 # https://www.stephanpringle.com/hosts/crackle.txt
 ! Expires: 1 days
-# Copyright (c) 1990-2024 Sipylus, LLC.
+# Copyright (c) 1990-2025 Sipylus, LLC.
 
-127.0.0.1 localhost
+# Localhost entries (always keep)
+0.0.0.0 localhost
 ::1 localhost
 
-#Fwmrm
-127.0.0.1 fwmrm.net
-127.0.0.1 m2.fwmrm.net
-127.0.0.1 v.fwmrm.net
-127.0.0.1 1c6e2.v.fwmrm.net
-127.0.0.1 1462b.v.fwmrm.net
-127.0.0.1 2975c.v.fwmrm.net
-127.0.0.1 165a7.v.fwmrm.net
-127.0.0.1 2517.v.fwmrm.net
-127.0.0.1 2517d.v.fwmrm.net
-127.0.0.1 2822.v.fwmrm.net
-127.0.0.1 2945.v.fwmrm.net
-127.0.0.1 29733.v.fwmrm.net
-127.0.0.1 2912a.v.fwmrm.net
-127.0.0.1 2915d.v.fwmrm.net
-127.0.0.1 2915dc.v.fwmrm.net
-127.0.0.1 2ab7f.v.fwmrm.net
-127.0.0.1 2a86.v.fwmrm.net
-127.0.0.1 2df7d.v.fwmrm.net
-127.0.0.1 2df7e.v.fwmrm.net
-127.0.0.1 5bde1.v.fwmrm.net
-127.0.0.1 5be16.v.fwmrm.net
-127.0.0.1 9cf9.v.fwmrm.net
-127.0.0.1 adm.fwmrm.net
-127.0.0.1 bea4.v.fwmrm.net
-127.0.0.1 bd0dc.v.fwmrm.net
-127.0.0.1 m.v.fwmrm.net
-127.0.0.1 www.fwmrm.net
+# Fwmrm
+0.0.0.0 fwmrm.net
+0.0.0.0 m2.fwmrm.net
+0.0.0.0 v.fwmrm.net
+0.0.0.0 1c6e2.v.fwmrm.net
+0.0.0.0 1462b.v.fwmrm.net
+0.0.0.0 2975c.v.fwmrm.net
+0.0.0.0 165a7.v.fwmrm.net
+0.0.0.0 2517.v.fwmrm.net
+0.0.0.0 2517d.v.fwmrm.net
+0.0.0.0 2822.v.fwmrm.net
+0.0.0.0 2945.v.fwmrm.net
+0.0.0.0 29733.v.fwmrm.net
+0.0.0.0 2912a.v.fwmrm.net
+0.0.0.0 2915d.v.fwmrm.net
+0.0.0.0 2915dc.v.fwmrm.net
+0.0.0.0 2ab7f.v.fwmrm.net
+0.0.0.0 2a86.v.fwmrm.net
+0.0.0.0 2df7d.v.fwmrm.net
+0.0.0.0 2df7e.v.fwmrm.net
+0.0.0.0 5bde1.v.fwmrm.net
+0.0.0.0 5be16.v.fwmrm.net
+0.0.0.0 9cf9.v.fwmrm.net
+0.0.0.0 adm.fwmrm.net
+0.0.0.0 bea4.v.fwmrm.net
+0.0.0.0 bd0dc.v.fwmrm.net
+0.0.0.0 m.v.fwmrm.net
+0.0.0.0 www.fwmrm.net
 
 # Demdex
-127.0.0.1 crackle.demdex.com
-127.0.0.1 crackle.demdex.net
-127.0.0.1 www.demdex.com
-127.0.0.1 www.demdex.net
+0.0.0.0 crackle.demdex.com
+0.0.0.0 crackle.demdex.net
+0.0.0.0 www.demdex.com
+0.0.0.0 www.demdex.net

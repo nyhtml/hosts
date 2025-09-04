@@ -1,6 +1,6 @@
-! Title: Block List for  Apps
+! Title: Blocklist for Adobe
 # Add the following hosts file URL to your blocking app.
-# https://www.stephanpringle.com/hosts/apps.txt
+# https://www.stephanpringle.com/hosts/adobe.txt
 ! Expires: 1 days
 # Copyright (c) 1990-2025 Sipylus, LLC.
 
@@ -8,7 +8,7 @@
 0.0.0.0 localhost
 ::1 localhost
 
-# Adobe
+# Adobe Applications
 #0.0.0.0 activate.adobe.com
 0.0.0.0 practivate.adobe.com
 0.0.0.0 ereg.adobe.com
@@ -30,6 +30,3 @@
 0.0.0.0 125.252.224.90 
 0.0.0.0 125.252.224.91
 0.0.0.0 hl2rcv.adobe.com
-
-# Outlook
-0.0.0.0 outlookads.live.com

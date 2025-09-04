@@ -1,33 +1,35 @@
 ! Title: Blocklist for Spam Domains
-# Add the following host file URL to your App
+# Add the following hosts file URL to your blocking app.
 # https://www.stephanpringle.com/hosts/spam.txt
 ! Expires: 1 days
-# Copyright (c) 1990-2024 Sipylus, LLC.
+# Copyright (c) 1990-2025 Sipylus, LLC.
 
-127.0.0.1 localhost
+# Localhost entries (always keep)
+0.0.0.0 localhost
 ::1 localhost
 
-127.0.0.1 semalt.media
-127.0.0.1 semaltmedia.com
-127.0.0.1 7makemoneyonline.com
-127.0.0.1 make-money-online.7makemoneyonline.com
-127.0.0.1 anonymous-redirect.com
-127.0.0.1 kambasoft.com
-127.0.0.1 srecorder.com
-127.0.0.1 semalt.com
-127.0.0.1 savetubevideo.com
-127.0.0.1 youtube-downloader.savetubevideo.com
-127.0.0.1 20.kambasoft.com
-127.0.0.1 56.kambasoft.com
-127.0.0.1 musicas.kambasoft.com
-127.0.0.1 semalt.semalt.com
-127.0.0.1 serw.clicksor.com
-127.0.0.1 musicas.baixar-musicas-gratis.com
-127.0.0.1 musica.descargar-musica-gratis.net
-127.0.0.1 com-afu.net
-127.0.0.1 ranksonic.info
-127.0.0.1 go2cloud.org
-127.0.0.1 yadro.ru
-127.0.0.1 counter.yadro.ru
-127.0.0.1 100dollars-seo.com
-127.0.0.1 ultrasurfing.com
+# Spam Domains
+0.0.0.0 semalt.media
+0.0.0.0 semaltmedia.com
+0.0.0.0 7makemoneyonline.com
+0.0.0.0 make-money-online.7makemoneyonline.com
+0.0.0.0 anonymous-redirect.com
+0.0.0.0 kambasoft.com
+0.0.0.0 srecorder.com
+0.0.0.0 semalt.com
+0.0.0.0 savetubevideo.com
+0.0.0.0 youtube-downloader.savetubevideo.com
+0.0.0.0 20.kambasoft.com
+0.0.0.0 56.kambasoft.com
+0.0.0.0 musicas.kambasoft.com
+0.0.0.0 semalt.semalt.com
+0.0.0.0 serw.clicksor.com
+0.0.0.0 musicas.baixar-musicas-gratis.com
+0.0.0.0 musica.descargar-musica-gratis.net
+0.0.0.0 com-afu.net
+0.0.0.0 ranksonic.info
+0.0.0.0 go2cloud.org
+0.0.0.0 yadro.ru
+0.0.0.0 counter.yadro.ru
+0.0.0.0 100dollars-seo.com
+0.0.0.0 ultrasurfing.com

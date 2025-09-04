@@ -1,33 +1,34 @@
 ! Blocklist for Dramafever
-# Add the following host file URL to AdAway 3.0.1 (55)
-# http://www.stephanpringle.com/hosts/dramafever.txt
+# Add the following hosts file URL to your blocking app.
+# https://www.stephanpringle.com/hosts/dramafever.txt
 ! Expires: 1 days
-# Copyright (c) 1990-2024 Sipylus, LLC.
+# Copyright (c) 1990-2025 Sipylus, LLC.
 
-127.0.0.1 localhost
+# Localhost entries (always keep)
+0.0.0.0 localhost
 ::1 localhost
 
 # Vdopia
-127.0.0.1 cdn.vdopia.com
-127.0.0.1 serve.vdopia.com
-127.0.0.1 trk.vdopia.com
+0.0.0.0 cdn.vdopia.com
+0.0.0.0 serve.vdopia.com
+0.0.0.0 trk.vdopia.com
 
 # Go2Cloud
-127.0.0.1 dramafever.go2cloud.org
+0.0.0.0 dramafever.go2cloud.org
 
 # DoubleClick
-127.0.0.1 ad.doubleclick.net
+0.0.0.0 ad.doubleclick.net
 
 # PointRoll
-127.0.0.1 pointroll.com
-127.0.0.1 ads.pointroll.com
-127.0.0.1 ev.ads.pointroll.com
-127.0.0.1 t.pointroll.com
-127.0.0.1 speed.pointroll.com
-127.0.0.1 www.pointroll.com
-127.0.0.1 container.pointroll.com
-127.0.0.1 media.pointroll.com
-127.0.0.1 clients.pointroll.com
-127.0.0.1 track.pointroll.com
-127.0.0.1 spd.pointroll.com
-127.0.0.1 clk.pointroll.com
+0.0.0.0 pointroll.com
+0.0.0.0 ads.pointroll.com
+0.0.0.0 ev.ads.pointroll.com
+0.0.0.0 t.pointroll.com
+0.0.0.0 speed.pointroll.com
+0.0.0.0 www.pointroll.com
+0.0.0.0 container.pointroll.com
+0.0.0.0 media.pointroll.com
+0.0.0.0 clients.pointroll.com
+0.0.0.0 track.pointroll.com
+0.0.0.0 spd.pointroll.com
+0.0.0.0 clk.pointroll.com
