@@ -8,7 +8,7 @@ The computer file [host](https://github.com/nyhtml/hosts/tree/master/hosts) is a
 * [DNSNet version 1.34 (63)](#dnsnet)
 * [Disclaimer](#disclaimer)
 
-## AdAway
+### AdAway
 A Free and Open Source ad blocker for Android.
 
 The application is available for rooted and non-rooted devices.
@@ -19,7 +19,7 @@ So when an app requests an ad or a tracker from a host in that file, this reques
 You can download predefined ads and blocker lists as hosts files from within the app to incorporate. It is also possible to use your own files and to add certain hosts to allowed and blocked lists.
 There are options to run a local web server to respond to blocked host names and to direct requests to the IP address of your choosing instead.
 
-## DNS66
+### DNS66
 DNS66 allows blocking host names via DNS. This can be used for ad blocking. It
 also allows other DNS servers to be added, for more privacy.
 
@@ -34,10 +34,9 @@ list overrides a previous entry.
 Custom DNS Servers can be configured as well, using the same UI, but no
 differentiation is made between ignored and denied servers.
 
-# DNSNet
+### DNSNet
 DNSNet allows you to take more control over what internet traffic goes in and out of your device. You can download host files to block a set of known advertising or malicious host names and then create exemptions where you see fit.
 
 It works by creating a lightweight VPN service that filters your internet traffic as you use your device. If you ever have trouble with connecting to a site or using an app, you can always exempt an app from filtering or create an exception for a specific host name.
 
-## Disclaimer
-WARNING: Rooting your device (to use AdAway) WILL void its warranty!!!
+#### Disclaimer: Rooting your device (to use AdAway) may void its warranty!!!
