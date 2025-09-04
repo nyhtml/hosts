@@ -39,4 +39,5 @@ DNSNet allows you to take more control over what internet traffic goes in and ou
 
 It works by creating a lightweight VPN service that filters your internet traffic as you use your device. If you ever have trouble with connecting to a site or using an app, you can always exempt an app from filtering or create an exception for a specific host name.
 
-#### Disclaimer: Rooting your device (to use AdAway) may void its warranty!!!
+#### Disclaimer:
+Rooting your device (to use AdAway) may void its warranty!!!
