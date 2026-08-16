@@ -1,6 +1,6 @@
-# Hosts
+# Hosts File
 
-The computer file hosts is a plain text file that contains a mapping of hostnames to IP addresses.
+The hosts file is a plain-text file that maps hostnames to IP addresses.
 
 ## 🌐 Languages
 - [English (en-us)](Documentation/README-en.md)
