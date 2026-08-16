@@ -1,5 +1,5 @@
-# Hosts
-The computer file [host](https://github.com/nyhtml/hosts/tree/master/hosts) is a plain operating system text file that maps hostnames to IP addresses.
+# Hosts File
+The [host](https://github.com/nyhtml/hosts/tree/master/hosts) file is a plain-text file that maps hostnames to IP addresses.
 
 ## Table of Contents
 
